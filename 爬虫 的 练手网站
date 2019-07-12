@@ -1,0 +1,24 @@
+需要登录 则 需要模拟登录， 
+        有的网站 模拟登录  太难了， 例如 新浪微博 
+        数据包中的参数 ，那个是用户名， 那个是 密码 根本不知道， 则需要一个一个去试
+        甚至 有的 用户名 和密码 还不在一个 数据包中，则需要每个数据包逐个分析，去试才可破解
+        selenium 
+        
+
+
+每日经济新闻: http://industry.nbd.com.cn/ 
+    关键信息: 标题、摘要、来源、作者、浏览量、转载量、评论数、点赞数
+今日头条:     http://www.toutiao.com/ch/stock_channel/
+    关键信息: 标题、摘要、来源、作者、浏览量、转载量、评论、点赞数
+雪球网:       https://xueqiu.com/#/cn
+    关键信息: 标题、摘要、来源、作者、浏览量、转载量、评论、点赞数
+摩尔金融24 小时文章热股榜:   https://www.moer.cn/ 
+百度实时热点: http://top.baidu.com/buzz?b=1
+微博热搜榜 :https://s.weibo.com/top/summary?cate=realtimehot
+知乎热榜 : https://www.zhihu.com/hot
+    开氪快讯: https://36kr.com/newsflashes
+    
+    
+    
+
+
